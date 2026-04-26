@@ -1,10 +1,10 @@
 <h1> Project File Manager </h1>
 
-&ensp;A Unity Tool made for managing your project files, either to delete unused ones or find out if there is a big file lost in your project.
+A Unity Tool made for managing your project files, either to delete unused ones or find out if there is a big file lost in your project.
 
 <h2> Unused Finder </h2>
 
-&ensp;Scan selected folder for assets that are not being used, move all selected assets after scan to a folder named Unused or to the selected folder.<br><br>
+Scan selected folder for assets that are not being used, move all selected assets after scan to a folder named Unused or to the selected folder.<br><br>
 &emsp;<b>● Source Folder</b> scan selected Folder.<br>
 &emsp;<b>● Target subfolder</b> move all selected unused assets to targt folder, by defult it moves everthing to a folder named <b>Unused</b>.<br>
 &emsp;<b>● Extensions</b> all file extensions that the tool will try to look for.<br>
