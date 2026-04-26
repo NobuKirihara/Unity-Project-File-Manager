@@ -11,7 +11,7 @@ Scan selected folder for assets that are not being used, move all selected asset
 
 You can either move the assets as a backup or delete them right away. There are some limitations to which files it will select. For example, it will first select a prefab and its materials if they are not being used by any other asset or referenced in a scene. After deleting the unused prefab and materials, the next scan will show all the textures that were being used by the prefab and its materials.<br>
 
-<b>Obs:</b>It might take some time during the first scan.<br><br>
+<b>Obs:</b> It might take some time during the first scan.<br><br>
 
 
 <h2> Size Explorer </h2>
