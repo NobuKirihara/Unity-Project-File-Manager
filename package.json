@@ -1,0 +1,11 @@
+{
+  "name": "com.snnoway.projectfilemanager",
+  "displayName": "Project File Manager",
+  "version": "1.0.0",
+  "unity": "2022.0",
+  "description": "A Package made to Manage your Project Files so that you can \nkeep an eye on your file size and unused ones.",
+  "author": {
+    "name": "Nobu",
+    "url": "https://github.com/NobuKirihara"
+  }
+}
