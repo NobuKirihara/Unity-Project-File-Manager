@@ -9,4 +9,4 @@
 &emsp;<b>● Target subfolder</b> move all selected unused assets to targt folder, by defult it moves everthing to a folder named <b>Unused</b>.<br>
 &emsp;<b>● Extensions</b> all file extensions that the tool will try to look for.<br>
 
-&ensp;You can either move the assets as a backup or delete them right away. There are some limitations to which files it will select. For example, it will first select a prefab and its materials if they are not being used by any other asset or referenced in a scene. After deleting the unused prefab and materials, the next scan will show all the textures that were being used by the prefab and its materials.<br><br>
+You can either move the assets as a backup or delete them right away. There are some limitations to which files it will select. For example, it will first select a prefab and its materials if they are not being used by any other asset or referenced in a scene. After deleting the unused prefab and materials, the next scan will show all the textures that were being used by the prefab and its materials.<br><br>
